@@ -1,0 +1,17 @@
+{
+  "name": "yelpcamp",
+  "description": "From tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "*",
+    "socket.io": "*",
+    "body-parser": "*",
+    "request": "*",
+    "mongoose": "*"
+  }
+}
